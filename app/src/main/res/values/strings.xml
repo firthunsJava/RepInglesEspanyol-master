@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RepInglesEspanyol</string>
+    <string name="lecturas_sencillas">"LECTURAS SENCILLAS"</string>
+    <string name="vemos_el_texto">Vemos el texto ???</string>
+
+    <!--    Aladimos manuealmente las varibales que contendrá los textos relacionados con sus traducciones
+            Para ello abrimos el open editor
+    -->
+    <string name="txtCasa">Francisco está parado afuera de su nueva casa. Él alcanza su bolsillo y saca la llave. Voltea la llave en la cerradura y abre la puerta. Él entra a la sala y mira alrededor. La pintura se está desprendiendo de las paredes. No hay muebles. La casa está sucia y huele mal. Trata de abrir una ventana pero está dañada. La casa no tiene una cocina o un dormitorio, pero hay un microondas en el piso a un lado del cuarto. Él se pregunta si éste funciona. El lugar se ve terrible, pero es todo lo que él se puede permitir comprar. Él se cubre la nariz y la boca con su mano y abre la puerta del baño. ¡Está en muy mala condición!</string>
+    <string name="txtFamilia">Mi nombre es Sangeeta. Tengo 11 años. Vivo en Nueva Delhi, India con mi padre, madre, dos hermanos y tres hermanas. Mis abuelos también viven con nosotros. En la India, la familia es muy importante. Es común tener abuelos, tías, tíos y/o primos viviendo en la misma casa. Mis tías, tíos y primos también viven cerca. Nos vemos a menudo. Mi hermano mayor es programador de computadoras. Ahora mismo, él está en Australia. Su compañía lo envió allá por un año. Todos lo extrañamos mucho. Le escribimos cartas cada semana. Yo quiero que él venga a casa pronto.</string>
+    <string name="txtYo">¡Hola! Mi nombre es Ana. Tengo veinticinco años. Vivo en Miami, Florida con mi esposo y dos hijos. Tengo un hijo en kínder y una hija en primer grado. Ambos van a una escuela pública. Mi esposo es mecánico. Los fines de semana, él trabaja en un restaurante lavando platos. El restaurante usualmente tiene más clientes los fines de semana, entonces necesitan gente extra para lavar platos</string>
+
+</resources>
